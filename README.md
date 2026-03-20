@@ -16,15 +16,17 @@
 🧠 Strong in data cleaning, EDA, and real-world analytics
 
 🌱 Learning Agentic AI, prompt engineering, and AI workflows
+
 💬 Ask me about Data Analysis, Power BI, Dashboards, and AI tools
 
 🏛️ **Founder & President — Sociapi Society**
+
 🚀 Mission: *From Ideas to Intelligence*
+
 🎤 Organizing events like Mehfil AI, workshops, and speaker sessions
 
 ⚡ Managing a tech society while building projects and studying AI
 
----
 
 ## 🧑‍💻 Experience
 
@@ -60,7 +62,6 @@ IUPC | HDPO | Career Connect Pakistan
 
 * Built e-commerce, portfolio, and blog websites
 
----
 
 ## 🎓 Education
 
@@ -70,7 +71,7 @@ Islamia College Peshawar (2023 – 2027)
 ☁️ Certified Cloud Applied Generative AI Engineer
 PIAIC (2023 – 2026)
 
----
+
 
 ## 💻 Tech Stack
 
@@ -88,7 +89,7 @@ PIAIC (2023 – 2026)
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
