@@ -10,8 +10,11 @@
 ## 💫 About Me
 
 🔭 Turning raw data into actionable insights using Python, SQL, Excel, and Power BI
+
 📊 Skilled in dashboards, KPI tracking, and business reporting
+
 🧠 Strong in data cleaning, EDA, and real-world analytics
+
 🌱 Learning Agentic AI, prompt engineering, and AI workflows
 💬 Ask me about Data Analysis, Power BI, Dashboards, and AI tools
 
