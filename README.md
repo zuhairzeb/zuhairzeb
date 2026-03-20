@@ -1,49 +1,71 @@
-<h1 align="center">Hi 👋, I'm Zuhair Zeb</h1>
-<h3 align="center">Founder | Data Analyst | Power BI Developer | AI Student</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Zuhair Zeb</h1>
+<h3 align="center">Founder @ Sociapi | Data Analyst | Power BI Developer | AI Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&lines=Data+Analyst;Power+BI+Developer;AI+Student;Founder+of+Sociapi+Society;Building+with+Data+%26+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&lines=Data+Analyst;Power+BI+Developer;AI+Student;Founder+of+Sociapi+Society;Business+Intelligence+%26+AI" />
 </p>
 
 ---
 
 ## 💫 About Me
 
-🔭 I turn raw data into actionable insights using Python, SQL, Excel, and Power BI  
+🔭 Turning raw data into actionable insights using Python, SQL, Excel, and Power BI
+📊 Skilled in dashboards, KPI tracking, and business reporting
+🧠 Strong in data cleaning, EDA, and real-world analytics
+🌱 Learning Agentic AI, prompt engineering, and AI workflows
+💬 Ask me about Data Analysis, Power BI, Dashboards, and AI tools
 
-📊 Experienced in building dashboards, KPIs tracking, and business reports  
+🏛️ **Founder & President — Sociapi Society**
+🚀 Mission: *From Ideas to Intelligence*
+🎤 Organizing events like Mehfil AI, workshops, and speaker sessions
 
-🧠 Strong in data cleaning, EDA, and real-world analytics projects  
-
-🌱 Currently learning Agentic AI, prompt engineering, and advanced AI workflows  
-
-💬 Ask me about Data Analysis, Power BI, Dashboards, and AI tools  
+⚡ Managing a tech society while building projects and studying AI
 
 ---
 
 ## 🧑‍💻 Experience
 
-💼 **Data Analytics Intern — Elevvo Pathways**  
-- Built Excel sales dashboards for performance tracking  
-- Performed EDA on datasets like Titanic  
-- Created RFM customer segmentation models  
-- Developed Power BI dashboards with KPIs and filters  
-- Worked on SQL queries for business insights  
-- Applied time series analysis on Walmart sales data  
-- Built web scraper in Python for job market analysis  :contentReference[oaicite:0]{index=0}  
+💼 **Lead IUPC — Peshawar Region**
+Inter Universities Programming Championship (IUPC)
 
-🤝 **HR Volunteer — The Order Of Pen**  
-- Managed volunteer onboarding and coordination  
-- Supported team communication and event execution  :contentReference[oaicite:1]{index=1}  
+* Leading regional programming initiatives and student engagement
+
+🎓 **Campus Ambassador**
+IUPC | HDPO | Career Connect Pakistan
+
+* Community building, outreach, and student engagement
+
+📊 **Data Analytics Intern — Elevvo Pathways (Remote)**
+
+* Built interactive Power BI dashboards
+* Created DAX KPIs (Revenue, AOV, Delivery Rate)
+* Analyzed sales and operations data
+* Automated reports for better efficiency
+
+👥 **HR Volunteer — The Order Of Pen**
+
+* Managed volunteers and coordination
+* Improved communication and event flow
+
+🌐 **WordPress Mentor — Digital Empowerment Network**
+
+* Mentored 40 interns in WordPress development
+* Led training sessions and project completion
+* Improved engagement and performance using SEO & UX
+
+💻 **WordPress Developer (Intern)**
+
+* Built e-commerce, portfolio, and blog websites
 
 ---
 
-## 🏛️ Leadership
+## 🎓 Education
 
-🚀 **Founder — Sociapi Society**  
-- Building a student-led tech community focused on AI and innovation  
-- Organizing events like Mehfil AI, workshops, and speaker sessions  
-- Mission: *From Ideas to Intelligence*  
+🎓 BS Artificial Intelligence
+Islamia College Peshawar (2023 – 2027)
+
+☁️ Certified Cloud Applied Generative AI Engineer
+PIAIC (2023 – 2026)
 
 ---
 
@@ -90,9 +112,10 @@
 <p align="center">
   <a href="https://linkedin.com/in/zuhairzeb"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/zuhairzeb"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://x.com/zuhairzeb"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="mailto:zebzuhair71@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center">✨ Turning Data into Decisions | Building with AI 🚀</p>
+<p align="center">✨ Data → Insights → Impact | Building
