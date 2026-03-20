@@ -97,15 +97,6 @@ PIAIC (2023 – 2026)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhairzeb&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zuhairzeb&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
@@ -116,6 +107,6 @@ PIAIC (2023 – 2026)
   <a href="mailto:zebzuhair71@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+
 
 <p align="center">✨ Data → Insights → Impact | Building
