@@ -1,116 +1,86 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zuhair Zeb</h1>
-<h3 align="center">Founder @ Sociapi | Data Analyst | Power BI Developer | AI Student</h3>
+<h3 align="center">WordPress Developer | WooCommerce Specialist | PHP & MySQL Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&lines=Data+Analyst;Power+BI+Developer;AI+Student;Founder+of+Sociapi+Society;Business+Intelligence+%26+AI" />
+Building custom WordPress websites, WooCommerce stores, and scalable web solutions.
 </p>
 
 ---
 
-## 💫 About Me
+## 🚀 About Me
 
-🔭 Turning raw data into actionable insights using Python, SQL, Excel, and Power BI
+💻 WordPress Developer with 4+ years of experience
 
-📊 Skilled in dashboards, KPI tracking, and business reporting
+🛒 Specialized in WooCommerce and Multivendor Marketplaces
 
-🧠 Strong in data cleaning, EDA, and real-world analytics
+⚙️ Building custom themes, plugins, and business websites
 
-🌱 Learning Agentic AI, prompt engineering, and AI workflows
+🔧 Experienced in PHP, MySQL, HTML, CSS, JavaScript, and WordPress
 
-💬 Ask me about Data Analysis, Power BI, Dashboards, and AI tools
+🚀 Focused on performance optimization, security, SEO, and scalable web solutions
 
-🏛️ **Founder & President — Sociapi Society**
+🏛️ Founder & President of Sociapi Society
 
-🚀 Mission: *From Ideas to Intelligence*
+---
 
-🎤 Organizing events like Mehfil AI, workshops, and speaker sessions
+## 💼 Experience
 
-⚡ Managing a tech society while building projects and studying AI
+### Freelance WordPress Developer | 2021 – Present
 
+✔ Built and customized 10+ WordPress websites
 
-## 🧑‍💻 Experience
+✔ Developed custom themes and plugins
 
-💼 **Lead IUPC — Peshawar Region**
-Inter Universities Programming Championship (IUPC)
+✔ Built WooCommerce and multivendor marketplaces
 
-* Leading regional programming initiatives and student engagement
+✔ Improved website speed, SEO, and security
 
-🎓 **Campus Ambassador**
-IUPC | HDPO | Career Connect Pakistan
+✔ Managed hosting, SSL, cPanel, and migrations
 
-* Community building, outreach, and student engagement
+---
 
-📊 **Data Analytics Intern — Elevvo Pathways (Remote)**
+### WordPress Mentor | Digital Empowerment Network
 
-* Built interactive Power BI dashboards
-* Created DAX KPIs (Revenue, AOV, Delivery Rate)
-* Analyzed sales and operations data
-* Automated reports for better efficiency
+✔ Mentored 40+ interns
 
-👥 **HR Volunteer — The Order Of Pen**
+✔ Conducted WordPress training sessions
 
-* Managed volunteers and coordination
-* Improved communication and event flow
+✔ Guided students through real world projects
 
-🌐 **WordPress Mentor — Digital Empowerment Network**
+---
 
-* Mentored 40 interns in WordPress development
-* Led training sessions and project completion
-* Improved engagement and performance using SEO & UX
+## 🛠 Tech Stack
 
-💻 **WordPress Developer (Intern)**
+### WordPress Development
 
-* Built e-commerce, portfolio, and blog websites
+WordPress • WooCommerce • Elementor Pro • ACF Pro
 
+### Languages
 
-## 🎓 Education
+PHP • MySQL • JavaScript • HTML5 • CSS3 • jQuery
 
-🎓 BS Artificial Intelligence
-Islamia College Peshawar (2023 – 2027)
+### Tools
 
-☁️ Certified Cloud Applied Generative AI Engineer
-PIAIC (2023 – 2026)
+GitHub • cPanel • SEO • SSL • Website Security
 
+---
 
+## 🌟 Featured Projects
 
-## 💻 Tech Stack
+### Ospherics Pharmaceuticals
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,r,js,html,css,php" />
-<br/>
-<img src="https://skillicons.dev/icons?i=wordpress,netlify" />
-</p>
+Custom WordPress website redesign with responsive layouts, SEO optimization, and performance improvements.
 
-<p align="center">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
-</p>
+### HomeItems Marketplace
 
+Multivendor WooCommerce marketplace with vendor dashboards, payment gateways, and advanced filtering.
 
+### TecWideBlog
 
-## 📊 GitHub Stats
+Content publishing platform optimized for SEO and performance.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zuhairzeb&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=zuhairzeb&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhairzeb&layout=compact&theme=tokyonight" />
-</p>
+---
 
+## 📫 Connect With Me
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/zuhairzeb"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/zuhairzeb"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://x.com/zuhairzeb"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:zebzuhair71@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-
-
-<p align="center">✨ Data → Insights → Impact | Building
+Open to WordPress Development roles, freelance projects, internships, and collaborations.
