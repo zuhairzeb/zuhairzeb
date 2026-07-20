@@ -223,20 +223,7 @@ const zuhair = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zuhairzeb&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4ADE80&icon_color=a78bfa&text_color=c9d1d9&ring_color=4ADE80" />
-<img width="49%" src="https://streak-stats.demolab.com?user=zuhairzeb&hide_border=true&background=0D1117&ring=4ADE80&fire=f472b6&currStreakLabel=4ADE80&sideLabels=a78bfa&dates=555555&currStreakNum=4ADE80&sideNums=c9d1d9" />
-
-<br>
-
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhairzeb&layout=donut&langs_count=8&hide_border=true&bg_color=0D1117&title_color=4ADE80&text_color=c9d1d9" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 Certifications
 
