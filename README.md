@@ -1,86 +1,67 @@
-<h1 align="center">Hi 👋, I'm Muhammad Zuhair Zeb</h1>
-<h3 align="center">WordPress Developer | WooCommerce Specialist | PHP & MySQL Developer</h3>
+# Hi, I'm Muhammad Zuhair Zeb 👋
 
-<p align="center">
-Building custom WordPress websites, WooCommerce stores, and scalable web solutions.
-</p>
+### WordPress Developer | Front End Developer | AI Enthusiast
+
+I build fast, responsive, and modern web applications using WordPress, React, and JavaScript. I enjoy creating user friendly websites, AI powered tools, and scalable web solutions.
 
 ---
 
 ## 🚀 About Me
 
-💻 WordPress Developer with 4+ years of experience
-
-🛒 Specialized in WooCommerce and Multivendor Marketplaces
-
-⚙️ Building custom themes, plugins, and business websites
-
-🔧 Experienced in PHP, MySQL, HTML, CSS, JavaScript, and WordPress
-
-🚀 Focused on performance optimization, security, SEO, and scalable web solutions
-
-🏛️ Founder & President of Sociapi Society
-
----
-
-## 💼 Experience
-
-### Freelance WordPress Developer | 2021 – Present
-
-✔ Built and customized 10+ WordPress websites
-
-✔ Developed custom themes and plugins
-
-✔ Built WooCommerce and multivendor marketplaces
-
-✔ Improved website speed, SEO, and security
-
-✔ Managed hosting, SSL, cPanel, and migrations
-
----
-
-### WordPress Mentor | Digital Empowerment Network
-
-✔ Mentored 40+ interns
-
-✔ Conducted WordPress training sessions
-
-✔ Guided students through real world projects
+* 💼 4+ years of experience in WordPress Development
+* 🌐 Built business websites, eCommerce stores, and portfolio websites
+* 🤖 Developing AI powered applications with Node.js and APIs
+* 🎓 BS Artificial Intelligence Student
+* 🏛 Founder & President of Sociapi Society
 
 ---
 
 ## 🛠 Tech Stack
 
-### WordPress Development
+### Front End
+HTML5 • CSS3 • JavaScript • React • TypeScript • Tailwind CSS
 
-WordPress • WooCommerce • Elementor Pro • ACF Pro
+### WordPress
+WordPress • WooCommerce • Elementor • ACF • PHP • MySQL
 
-### Languages
-
-PHP • MySQL • JavaScript • HTML5 • CSS3 • jQuery
+### AI & Backend
+Node.js • Express.js • REST APIs • Baileys • OpenAI API
 
 ### Tools
-
-GitHub • cPanel • SEO • SSL • Website Security
-
----
-
-## 🌟 Featured Projects
-
-### Ospherics Pharmaceuticals
-
-Custom WordPress website redesign with responsive layouts, SEO optimization, and performance improvements.
-
-### HomeItems Marketplace
-
-Multivendor WooCommerce marketplace with vendor dashboards, payment gateways, and advanced filtering.
-
-### TecWideBlog
-
-Content publishing platform optimized for SEO and performance.
+Git • GitHub • cPanel • Netlify • Vercel • Figma
 
 ---
 
-## 📫 Connect With Me
+## ⭐ Featured Projects
 
-Open to WordPress Development roles, freelance projects, internships, and collaborations.
+### 🤖 Sociapi WhatsApp AI Chatbot
+AI powered WhatsApp chatbot built with Node.js and Baileys that answers questions from a knowledge base and integrates with external AI services.
+
+### 🌐 Zuhair Portfolio
+Modern portfolio built with React, TypeScript, Tailwind CSS, Framer Motion, and Three.js.
+
+### 🛒 WooCommerce Marketplace
+Custom WordPress marketplace with payment gateway integration and vendor management.
+
+### 💊 Ospherics Pharmaceuticals
+Business website redesigned with WordPress, responsive UI, SEO optimization, and improved performance.
+
+---
+
+## 📈 GitHub Stats
+
+(Add GitHub Readme Stats here)
+
+---
+
+## 🤝 Connect With Me
+
+📧 Email: your email
+
+💼 LinkedIn: your profile
+
+🌐 Portfolio: your website
+
+---
+
+> "Building solutions that combine modern web development with AI."
