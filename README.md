@@ -1,107 +1,133 @@
-# Hi, I'm Muhammad Zuhair Zeb 👋
-
 <div align="center">
 
-### WordPress Developer • WooCommerce Specialist • PHP Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Zuhair+Zeb;WordPress+Developer+%7C+WooCommerce+Expert;Founder+%40+Sociapi+Society;4%2B+Years+Building+Web+Solutions" alt="Typing SVG" />
 
-Building fast, secure, and scalable WordPress solutions.
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=7CF03D&center=true&vCenter=true&width=600&lines=WordPress+Developer;WooCommerce+Expert;PHP+%26+MySQL+Developer;Building+Modern+Web+Solutions" />
+![Profile Views](https://komarev.com/ghpvc/?username=zuhairzeb&color=4ADE80&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4ADE80?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4ADE80?style=flat-square&logo=todoist&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-Contact-4ADE80?style=flat-square&logo=gmail&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-- 💻 4+ years of WordPress development experience
-- 🛒 WooCommerce and Multivendor Marketplace specialist
-- ⚙️ Custom Themes, Plugins, and Business Websites
-- 🚀 Performance, SEO, Security, and Speed Optimization
-- 🎓 BS Artificial Intelligence Student
-- 🏛 Founder & President of Sociapi Society
+I build fast, secure, and good looking WordPress websites. I love turning simple ideas into real working stores and platforms. My main focus is WooCommerce, custom themes, and clean code that just works.
 
----
-
-## 🛠 Tech Stack
-
-### CMS
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
-
-### Languages
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools
-
-Git • GitHub • cPanel • SEO • SSL • Website Security
+- 💻 **4+ years** of hands on WordPress development
+- 🛒 Specialist in **WooCommerce** and **multivendor marketplaces**
+- ⚙️ I build custom themes, plugins, and full business websites
+- 🔧 Comfortable with **PHP, MySQL, HTML, CSS, and JavaScript**
+- 📈 I care about **speed, security, and SEO** on every project
+- 🏛️ Founder & President of **Sociapi Society**, a student tech community
 
 ---
 
-## 💼 Experience
+### 💼 Experience
 
-### Freelance WordPress Developer
-**2021 – Present**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Built and customized 10+ WordPress websites
-- Developed custom themes and plugins
-- Built WooCommerce marketplaces
-- Improved SEO, Core Web Vitals, and security
-- Managed hosting, migrations, SSL, and cPanel
+**Freelance WordPress Developer**
+*2021 – Present*
 
-### WordPress Mentor
-**Digital Empowerment Network**
+- Built and customized 10+ WordPress sites
+- Developed custom themes and plugins from scratch
+- Built WooCommerce and multivendor marketplaces
+- Improved site speed, SEO ranking, and security
+- Handled hosting, SSL, cPanel, and migrations
 
-- Mentored 40+ interns
-- Conducted WordPress workshops
-- Guided real world client projects
+</td>
+<td width="50%" valign="top">
 
----
+**WordPress Mentor**
+*Digital Empowerment Network*
 
-## ⭐ Featured Projects
+- Mentored 40+ interns on WordPress and WooCommerce
+- Ran hands on training sessions
+- Guided students through real client style projects
+- Helped students go from beginner to job ready
 
-### 🌐 Ospherics Pharmaceuticals
-
-Modern WordPress website with custom UI, SEO optimization, responsive design, and improved performance.
-
-### 🛒 HomeItems Marketplace
-
-WooCommerce multivendor marketplace with vendor dashboards, payment gateways, and product filtering.
-
-### 📰 TecWideBlog
-
-SEO optimized content publishing platform built on WordPress.
-
-### 🤖 Sociapi WhatsApp AI Bot
-
-AI powered WhatsApp chatbot using Node.js and Baileys with knowledge base integration and multilingual support.
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+### 🛠 Tech Stack
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
+
+![WordPress](https://img.shields.io/badge/WordPress-4ADE80?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-4ADE80?style=for-the-badge&logo=woocommerce&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-4ADE80?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4ADE80?style=for-the-badge&logo=mysql&logoColor=white)
+<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-4ADE80?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-4ADE80?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-4ADE80?style=for-the-badge&logo=css3&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-4ADE80?style=for-the-badge&logo=elementor&logoColor=white)
+<br>
+![GitHub](https://img.shields.io/badge/GitHub-4ADE80?style=for-the-badge&logo=github&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-4ADE80?style=for-the-badge&logo=cpanel&logoColor=white)
+
+</div>
 
 ---
 
-## 🌍 Connect With Me
+### 🌟 Featured Projects
 
-<p align="left">
-<a href="YOUR_LINKEDIN">LinkedIn</a> •
-<a href="YOUR_PORTFOLIO">Portfolio</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
-</p>
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🏥 Ospherics Pharmaceuticals**
+
+Full WordPress redesign with responsive layout, SEO tuning, and speed improvements.
+
+</td>
+<td width="33%" valign="top">
+
+**🛍️ HomeItems Marketplace**
+
+Multivendor WooCommerce store with vendor dashboards, payment gateways, and smart filters.
+
+</td>
+<td width="33%" valign="top">
+
+**📝 TecWideBlog**
+
+Content platform built for strong SEO and fast page loads.
+
+</td>
+</tr>
+</table>
 
 ---
 
-> *Building websites that are fast, secure, scalable, and user focused.*
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=zuhairzeb&show_icons=true&theme=transparent&title_color=4ADE80&icon_color=4ADE80&text_color=ffffff&border_color=4ADE80" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zuhairzeb&theme=transparent&stroke=4ADE80&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80" width="48%" />
+
+</div>
+
+> **Note:** Replace `zuhairzeb` in the stats links above with your real GitHub username so the stats pull correctly.
+
+---
+
+<div align="center">
+
+### 📫 Let's Work Together
+
+I'm open to WordPress development roles, freelance projects, internships, and collaborations.
+
+**From Ideas to Intelligence** 🚀
+
+</div>
