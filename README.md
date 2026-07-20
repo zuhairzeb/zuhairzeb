@@ -1,36 +1,54 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=4ADE80&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Zuhair+Zeb;BS+AI+Student+%7C+Web+Developer;Founder+%40+Sociapi+Society;I+build+ERPs%2C+Bots%2C+and+WordPress+Sites" alt="Typing SVG" />
+### Hey there! 👋 I'm Muhammad Zuhair Zeb
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&duration=1&color=4ADE80&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Zuhair;BS+AI+Student+%7C+Web+Developer;Founder+%40+Sociapi+Society;I+build+ERPs+%26+Bots+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-xuhair.netlify.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://xuhair.netlify.app)
-[![Links](https://img.shields.io/badge/All+Links-beacons.ai-6C5CE7?style=flat-square&logo=linktree&logoColor=white)](https://beacons.ai/zuhairzeb)
-[![Email](https://img.shields.io/badge/Email-xuhairxeb%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:xuhairxeb@gmail.com)
+<a href="https://xuhair.netlify.app" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-xuhair.netlify.app-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://beacons.ai/zuhairzeb" target="_blank"><img src="https://img.shields.io/badge/🔗_All_Links-beacons.ai-6C5CE7?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+<a href="mailto:xuhairxeb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/📧_Email-xuhairxeb%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+---
+
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=zuhairzeb&bg_color=0a0a0f&color=4ade80&line=a855f7&point=60a5fa&area=true&area_color=4ade80&hide_border=true" />
+
+---
+
+</div>
+
+## 🚀 About Me
+
+```
+const zuhair = {
+    role: "AI Student & Web Developer",
+    location: "Peshawar, Pakistan 🇵🇰",
+    education: "BS Artificial Intelligence",
+    university: "Islamia College University Peshawar",
+    currentFocus: ["AI & Machine Learning", "Web Development", "Building Communities"],
+    funFact: "I build things that actually work, not just look good on paper"
+};
+```
+
+<br>
+
+<div align="center">
+
+| 🎓 Education | 💼 Experience | 🏛️ Leadership |
+|:---:|:---:|:---:|
+| **BS Artificial Intelligence** | **4+ Years** Web Dev | **Founder** @ Sociapi Society |
+| Islamia College University | 10+ Projects Delivered | 150+ Event Attendees |
 
 </div>
 
 ---
 
-### 🚀 About Me
-
-I'm a final year **BS Artificial Intelligence** student in Peshawar, Pakistan. I like building things that actually work, not just look good on paper. Right now I split my time between AI, web development, and running my own student tech community.
-
-- 🎓 Final year AI student at **Islamia College University, Peshawar**
-- 🏛️ Founder & President of **Sociapi Society**, a registered student tech community
-- 💻 4+ years building **WordPress, WooCommerce, and React** based websites
-- 🤖 Built an internal **ERP system** and a **WhatsApp AI chatbot** from scratch
-- 📊 Data analyst intern, worked with **Python, SQL, and Power BI**
-- 🌱 Always learning, always shipping something new
-
----
-
-### 🛠 Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-**Frontend**
-<br>
+### ⚡ Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -41,30 +59,25 @@ I'm a final year **BS Artificial Intelligence** student in Peshawar, Pakistan. I
 ![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
-**Backend & Database**
-<br>
+### 🖥️ Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
-**CMS & WordPress**
-<br>
+### 📝 CMS & WordPress
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 
-**AI & Data**
-<br>
+### 🤖 AI & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-**Tools & Deployment**
-<br>
+### 🛠️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -77,34 +90,54 @@ I'm a final year **BS Artificial Intelligence** student in Peshawar, Pakistan. I
 
 ---
 
-### 💼 Experience
+## 💼 Professional Experience
 
-**Data Analyst Intern** · Elevvo Pathways · 2025
-Cleaned and analyzed datasets for business reporting. Built dashboards and summaries using SQL and Power BI.
+<table>
+<tr>
+<td width="50%">
 
-**Freelance WordPress Developer** · Self employed · 2021 – Present
-Built and customized 10+ WordPress websites, including WooCommerce stores and a multivendor marketplace. Handled hosting, SSL, migrations, and site security end to end.
+#### 📊 Data Analyst Intern
+**Elevvo Pathways** · 2025
+> Cleaned and analyzed datasets for business reporting. Built dashboards using SQL and Power BI.
+>
+> 🏆 *Outstanding Contributor Award*
 
-**WordPress Intern & Mentor** · Digital Empowerment Network · Aug 2024 – Nov 2024
-Completed a 3 month internship, then mentored 60+ interns on WordPress and WooCommerce basics through real client style projects.
+</td>
+<td width="50%">
+
+#### 💻 Freelance WordPress Developer
+**Self Employed** · 2021 – Present
+> Built and customized 10+ WordPress websites, including WooCommerce stores and multivendor marketplace.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🎓 WordPress Intern & Mentor
+**Digital Empowerment Network** · Aug 2024 – Nov 2024
+> Completed 3 month internship, then mentored 60+ interns on WordPress & WooCommerce.
+
+</td>
+<td width="50%">
+
+#### 🏛️ Founder & President
+**Sociapi Society** · Dec 2025 – Present
+> Registered student tech community under Societies Registration Act 1860.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🏛️ Leadership
-
-**Founder & President, Sociapi Society** · Islamia College University Peshawar · Dec 2025 – Present
-
-Founded and formally registered a student tech community under the Societies Registration Act 1860. Organized **AGENTUM 2026** and **Mehfil AI 2026**, each with 150+ attendees, covering sponsorships, speakers, and full event logistics.
-
----
-
-### 🌟 Featured Projects
+## 🌟 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🧩 Sociapi Nexus — Internal ERP**
+### 🧩 Sociapi Nexus — Internal ERP
 `React` `TypeScript` `Supabase` `Vercel`
 
 Full ERP system to manage attendance, member records, and roles for a multi department organization. Designed and debugged database access rules and authentication flow.
@@ -112,7 +145,7 @@ Full ERP system to manage attendance, member records, and roles for a multi depa
 </td>
 <td width="50%" valign="top">
 
-**🤖 WhatsApp AI Assistant**
+### 🤖 WhatsApp AI Assistant
 `Node.js` `Baileys` `Railway`
 
 AI powered WhatsApp chatbot with a local knowledge base, multilingual support, conversation memory, and live admin takeover. Deployed with CI/CD through GitHub.
@@ -122,15 +155,17 @@ AI powered WhatsApp chatbot with a local knowledge base, multilingual support, c
 <tr>
 <td width="50%" valign="top">
 
-**🎨 Personal Portfolio**
+### 🎨 Personal Portfolio
 `React` `TypeScript` `Vite` `Tailwind` `Framer Motion` `Three.js`
 
-Modern portfolio with a cyber theme, animations, dark mode, and full project showcase. Live at [xuhair.netlify.app](https://xuhair.netlify.app)
+Modern portfolio with a cyber theme, animations, dark mode, and full project showcase.
+
+🔗 [xuhair.netlify.app](https://xuhair.netlify.app)
 
 </td>
 <td width="50%" valign="top">
 
-**🛒 HomeItems Marketplace**
+### 🛒 HomeItems Marketplace
 `WooCommerce` `PHP` `MySQL`
 
 Multivendor WooCommerce marketplace with vendor dashboards, payment gateways, shipping rules, and advanced filtering.
@@ -140,7 +175,7 @@ Multivendor WooCommerce marketplace with vendor dashboards, payment gateways, sh
 <tr>
 <td width="50%" valign="top">
 
-**💊 Ospherics Pharmaceuticals**
+### 💊 Ospherics Pharmaceuticals
 `WordPress` `Elementor` `PHP`
 
 Complete redesign of a pharmaceutical company website, with better performance and SEO.
@@ -148,7 +183,7 @@ Complete redesign of a pharmaceutical company website, with better performance a
 </td>
 <td width="50%" valign="top">
 
-**📝 TecWideBlog**
+### 📝 TecWideBlog
 `WordPress` `Elementor` `SEO`
 
 SEO optimized blogging platform with a responsive layout and clean content management.
@@ -159,21 +194,82 @@ SEO optimized blogging platform with a responsive layout and clean content manag
 
 ---
 
-### 🏆 Certifications
-
-- WordPress Virtual Internship Program — Digital Empowerment Network (2024)
-- WordPress Mentor Recognition Certificate — Digital Empowerment Network (2024)
-- Web Development Course — Cyberseez IT House & Academy (2024)
-- Member — Pakistan Freelancers Association, PAFLA (2024)
-- Outstanding Contributor Award — Elevvo Pathways (Sep 2025)
-
----
-
-### 💬 Random Dev Quote
+## 🏆 Certifications
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+| Certification | Organization | Year |
+|:---:|:---:|:---:|
+| 🎖️ WordPress Virtual Internship | Digital Empowerment Network | 2024 |
+| 🏅 WordPress Mentor Recognition | Digital Empowerment Network | 2024 |
+| 📜 Web Development Course | Cyberseez IT House & Academy | 2024 |
+| 🤝 Member — PAFLA | Pakistan Freelancers Association | 2024 |
+| ⭐ Outstanding Contributor Award | Elevvo Pathways | Sep 2025 |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zuhairzeb&show_icons=true&theme=radical&bg_color=0a0a0f&title_color=4ade80&icon_color=a855f7&text_color=e2e8f0&border_color=1e1e2e" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhairzeb&layout=compact&theme=radical&bg_color=0a0a0f&title_color=4ade80&text_color=e2e8f0&border_color=1e1e2e" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zuhairzeb&theme=radical&background=0a0a0f&ring=4ade80&fire=a855f7&currStreakLabel=4ade80&sideLabels=e2e8f0" />
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=zuhairzeb&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=10" />
+
+</div>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://xuhair.netlify.app)
+[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xuhairxeb@gmail.com)
+[![Beacons](https://img.shields.io/badge/🔗_All_Links-6C5CE7?style=for-the-badge&logo=linktree&logoColor=white)](https://beacons.ai/zuhairzeb)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zuhairzeb)
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zuhairzeb)
+
+<br>
+
+### 💡 *"From Ideas to Intelligence"* 🚀
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=zuhairzeb&color=4ade80&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+<br>
+
+**Open to:** AI & Web Development Roles • Internships • Freelance • Collaborations
+
+<br>
 
 </div>
 
@@ -181,14 +277,8 @@ SEO optimized blogging platform with a responsive layout and clean content manag
 
 <div align="center">
 
-### 📫 Let's Connect
+![Wave](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-Open to AI and web development roles, internships, freelance work, and collaborations.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://xuhair.netlify.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xuhairxeb@gmail.com)
-[![Beacons](https://img.shields.io/badge/All+Links-6C5CE7?style=for-the-badge&logo=linktree&logoColor=white)](https://beacons.ai/zuhairzeb)
-
-**From Ideas to Intelligence** 🚀
+**Made with 💚 by Muhammad Zuhair Zeb**
 
 </div>
