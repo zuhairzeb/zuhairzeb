@@ -1,337 +1,280 @@
 <div align="center">
 
-<img src="https://ui-avatars.com/api/?name=ZZ&amp;size=256&amp;background=F5C451&amp;color=111111&amp;bold=true&amp;rounded=true&amp;format=png&amp;font-size=0.4" alt="ZZ logo" width="104" height="104" />
+<img src="https://raw.githubusercontent.com/zuhairzeb/zuhairzeb/main/assets/banner.svg" alt="Muhammad Zuhair Zeb — AI Agents, Web Architect & Founder" width="100%" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=26&amp;duration=1600&amp;pause=500&amp;color=F5C451&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=58&amp;lines=Muhammad+Zuhair+Zeb;AI+Agent+%26+MCP+Builder;WooCommerce+Architect;Founder+%40+Sociapi+Society" alt="Animated name" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:07060b,38:1e1b4b,72:8B7CFF,100:F5C451&amp;height=230&amp;section=header&amp;text=Muhammad%20Zuhair%20Zeb&amp;fontSize=38&amp;fontColor=ffffff&amp;fontAlignY=34&amp;desc=AI%20%C2%B7%20MCP%20%C2%B7%20WooCommerce%20%C2%B7%20Sociapi&amp;descAlignY=56&amp;descSize=16&amp;descColor=ffffff&amp;animation=twinkling" alt="Muhammad Zuhair Zeb" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=18&amp;duration=1400&amp;pause=400&amp;color=8B7CFF&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=42&amp;lines=%E2%9A%A1+Building+Morrow+AI;%F0%9F%9B%A1+RepoGuard+in+English+%2B+Roman+Urdu;%F0%9F%8F%9B+520%2B+students+at+Sociapi;%F0%9F%9A%80+From+Ideas+to+Intelligence" alt="Animated status" />
+<a href="https://xuhair.netlify.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2400&pause=900&color=FF5722&center=true&vCenter=true&width=700&height=52&lines=%E2%9A%A1+Architecting+Multi-Provider+LLM+%26+MCP+Agent+Systems;%F0%9F%9B%A0%EF%B8%8F+5%2B+Years+Shipping+20%2B+WordPress+%26+WooCommerce+Platforms;%F0%9F%8F%9B%EF%B8%8F+Founder+%40+Sociapi+Society+%E2%80%94+520%2B+Students+Reached;%F0%9F%9A%80+From+Ideas+to+Intelligence." alt="Animated Headline" />
+</a>
 
 <p>
-  <a href="https://xuhair.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN-F5C451?style=for-the-badge&amp;labelColor=111111&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/zuhairzeb"><img src="https://img.shields.io/badge/LINKEDIN-IN-0A66C2?style=for-the-badge&amp;labelColor=111111&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/zuhairzeb"><img src="https://img.shields.io/badge/GITHUB-CODE-181717?style=for-the-badge&amp;labelColor=111111&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:xuhairxeb@gmail.com"><img src="https://img.shields.io/badge/EMAIL-HELLO-EA4335?style=for-the-badge&amp;labelColor=111111&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-  <a href="https://sociapis.vercel.app"><img src="https://img.shields.io/badge/SOCIAPI-ORG-8B7CFF?style=for-the-badge&amp;labelColor=111111" alt="Sociapi" /></a>
+  <a href="https://xuhair.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-xuhair.netlify.app-161210?style=for-the-badge&logo=vercel&logoColor=FF5722&labelColor=0B0908" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/zuhairzeb"><img src="https://img.shields.io/badge/LINKEDIN-zuhairzeb-161210?style=for-the-badge&logo=linkedin&logoColor=FFB300&labelColor=0B0908" alt="LinkedIn" /></a>
+  <a href="https://sociapis.vercel.app"><img src="https://img.shields.io/badge/FOUNDER-SOCIAPI_SOCIETY-FF5722?style=for-the-badge&labelColor=0B0908" alt="Sociapi Society" /></a>
+  <a href="mailto:xuhairxeb@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-161210?style=for-the-badge&logo=gmail&logoColor=FF5722&labelColor=0B0908" alt="Email" /></a>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/5%2B_YRS-BUILDING-F5C451?style=for-the-badge&amp;labelColor=111111" alt="" />
-<img src="https://img.shields.io/badge/20%2B-WEBSITES-8B7CFF?style=for-the-badge&amp;labelColor=111111" alt="" />
-<img src="https://img.shields.io/badge/520%2B-STUDENTS-F5C451?style=for-the-badge&amp;labelColor=111111" alt="" />
-<img src="https://img.shields.io/badge/39-TEAM-8B7CFF?style=for-the-badge&amp;labelColor=111111" alt="" />
-<img src="https://img.shields.io/badge/09-CHAPTERS-F5C451?style=for-the-badge&amp;labelColor=111111" alt="" />
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=zuhairzeb&amp;label=PROFILE+VIEWS&amp;color=F5C451&amp;style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=zuhairzeb&label=TELEMETRY+VIEWS&color=FF5722&style=flat-square" alt="Profile Views" />
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:F5C451,100:8B7CFF&amp;height=54&amp;section=header&amp;text=EARNED%20TROPHIES&amp;fontSize=20&amp;fontColor=111111&amp;fontAlignY=50" alt="Earned trophies" width="100%" />
-
-<div align="center">
-
-Earned only. Empty 0-point cards are hidden.
-
-<br/>
-
-<img src="https://github-trophies.vercel.app/?username=zuhairzeb&amp;theme=gruvbox&amp;no-frame=true&amp;no-bg=true&amp;margin-w=10&amp;column=-1&amp;title=MultipleLang,LongTimeUser,NewUser,Commits,Repositories" alt="GitHub trophies: Hyper Committer, Village Elder, Rainbow Lang, First Repository" width="100%" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/S-VILLAGE_ELDER-F5C451?style=for-the-badge&amp;labelColor=111111" alt="S VILLAGE_ELDER" />
-<img src="https://img.shields.io/badge/S-RAINBOW_LANG-8B7CFF?style=for-the-badge&amp;labelColor=111111" alt="S RAINBOW_LANG" />
-<img src="https://img.shields.io/badge/A-HYPER_COMMITTER-F5C451?style=for-the-badge&amp;labelColor=111111" alt="A HYPER_COMMITTER" />
-<img src="https://img.shields.io/badge/C-FIRST_REPO-8B7CFF?style=for-the-badge&amp;labelColor=111111" alt="C FIRST_REPO" />
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:F5C451,100:8B7CFF&amp;height=54&amp;section=header&amp;text=WHOAMI&amp;fontSize=20&amp;fontColor=111111&amp;fontAlignY=50" alt="Whoami" width="100%" />
+## `01 // SYSTEM ARCHITECTURE & IDENTITY`
 
 <table>
 <tr>
-<td width="48%" valign="top">
+<td width="58%" valign="top">
 
-```yaml
-name: Muhammad Zuhair Zeb
-base: Peshawar, Pakistan
-roles:
-  - WordPress & WooCommerce Developer
-  - AI Application Developer
-  - Founder @ Sociapi Society
-school: BS Artificial Intelligence
-campus: Islamia College University Peshawar
-since: 2021
-shipped: 20+ websites & products
-building:
-  - Morrow AI
-  - RepoGuard (MCP, English + Roman Urdu)
-  - Sociapi Nexus ERP
-motto: From Ideas to Intelligence.
+### Muhammad Zuhair Zeb
+**AI Application Developer · WordPress & WooCommerce Architect · Community Founder**
+
+Final-year **BS Artificial Intelligence** student at **Islamia College University Peshawar, Pakistan**. Since **2021**, I have engineered **20+ commercial websites, multivendor eCommerce stores, and custom software platforms**.
+
+Today, I bridge production web architecture with **multi-provider LLM orchestration, Model Context Protocol (MCP) agents, RAG pipelines, and business automation**—while leading **Sociapi Society** to connect students with hands-on AI & engineering.
+
+> **Motto:** *"From Ideas to Intelligence."*
+
+</td>
+<td width="42%" valign="top">
+
+```toml
+[engineer]
+handle     = "@zuhairzeb"
+base       = "Peshawar, Pakistan"
+degree     = "BS Artificial Intelligence"
+alma_mater = "Islamia College Univ."
+shipped    = "20+ Web & eCommerce Builds"
+leadership = "Founder @ Sociapi Society"
+
+[focus_2026]
+agents = ["MCP Servers", "Multi-Agent RAG"]
+infra  = ["Key Rotation", "Provider Failover"]
+active = ["Morrow AI", "RepoGuard", "Nexus ERP"]
 ```
 
 </td>
-<td width="52%" valign="top">
-
-I build things that leave the laptop. WordPress stores that sell. AI agents that explain real GitHub security reports. An ERP that runs a student community.
-
-Since **2021** I have shipped **20+ websites and products**. I now split time between client commerce builds and AI systems: multi-provider LLMs, key rotation, RAG, and MCP.
-
-<img src="https://img.shields.io/badge/ROLE-WORDPRESS-F5C451?style=for-the-badge&amp;labelColor=111111" alt="ROLE WORDPRESS" />
-<img src="https://img.shields.io/badge/ROLE-AI_AGENTS-8B7CFF?style=for-the-badge&amp;labelColor=111111" alt="ROLE AI_AGENTS" />
-<img src="https://img.shields.io/badge/ROLE-FOUNDER-F5C451?style=for-the-badge&amp;labelColor=111111" alt="ROLE FOUNDER" />
-
-<br/>
-
-📧 [xuhairxeb@gmail.com](mailto:xuhairxeb@gmail.com) · 🌐 [xuhair.netlify.app](https://xuhair.netlify.app)
-
-</td>
 </tr>
 </table>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:F5C451,100:8B7CFF&amp;height=54&amp;section=header&amp;text=TECH%20ARSENAL&amp;fontSize=20&amp;fontColor=111111&amp;fontAlignY=50" alt="Tech arsenal" width="100%" />
-
-<div align="center">
-
-**Web & commerce**
-
-<img src="https://skillicons.dev/icons?i=wordpress,php,html,css,js,ts,react,tailwind,vite&amp;theme=dark&amp;perline=9" alt="Web icons" />
-
-**AI, agents, MCP**
-
-<img src="https://skillicons.dev/icons?i=python,fastapi&amp;theme=dark" alt="AI icons" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/OPENAI-API-412991?style=for-the-badge&amp;labelColor=111111&amp;logo=openai&amp;logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/GEMINI-API-8E75B2?style=for-the-badge&amp;labelColor=111111&amp;logo=googlegemini&amp;logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/GROQ-FAST-F55036?style=for-the-badge&amp;labelColor=111111&amp;logo=groq&amp;logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/LANGCHAIN-AGENTS-1C3C3C?style=for-the-badge&amp;labelColor=111111&amp;logo=langchain&amp;logoColor=white" alt="" />
-<img src="https://img.shields.io/badge/MCP-PROTOCOL-F5C451?style=for-the-badge&amp;labelColor=111111" alt="" />
-
-<br/>
-
-**Backend & data**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,supabase,redis&amp;theme=dark&amp;perline=6" alt="Backend icons" />
-
-**Ship & design**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,vercel,netlify,postman,figma&amp;theme=dark&amp;perline=9" alt="Tool icons" />
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:F5C451,100:8B7CFF&amp;height=54&amp;section=header&amp;text=FEATURED%20SYSTEMS&amp;fontSize=20&amp;fontColor=111111&amp;fontAlignY=50" alt="Featured systems" width="100%" />
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=16&amp;duration=1300&amp;pause=350&amp;color=F5C451&amp;center=true&amp;vCenter=true&amp;width=520&amp;height=38&amp;lines=key+rotation+%E2%86%92+fallback;MCP+security+explanations;multivendor+stores;student+ERP+%2B+attendance" alt="Animated build line" />
-
-</div>
+## `02 // FEATURED SYSTEMS & RESEARCH`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ Morrow AI
-<img src="https://img.shields.io/badge/AI-WORKSPACE-F5C451?style=for-the-badge&amp;labelColor=111111" alt="AI WORKSPACE" /> <img src="https://img.shields.io/badge/STATUS-IN_DEV-8B7CFF?style=for-the-badge&amp;labelColor=111111" alt="STATUS IN_DEV" />
+### `01` Morrow AI
+![Status](https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-FF5722?style=flat-square&labelColor=0D0B0A) ![Domain](https://img.shields.io/badge/DOMAIN-AI_WORKSPACE-FFB300?style=flat-square&labelColor=0D0B0A)
 
-One desk for many models. If a provider rate-limits, the next key and the next model take the turn.
+Unified personal AI workspace orchestrating multiple LLM providers, resilient tool execution, document intelligence, and memory.
+- **Failover Routing:** Automatic API key rotation & zero-downtime provider fallback
+- **Stateful Context:** Persistent conversation history, memory & document processing
+- **Developer Tools:** Custom AI commands, code assistance & response recovery
 
-- Multi-provider routing
-- API key rotation and fallback
-- Memory, documents, code help
-
-<img src="https://skillicons.dev/icons?i=python&amp;theme=dark" alt="Python" height="36" />
-
-`Python` `LangChain` `OpenAI` `Groq` `Gemini`
+`Python` · `LangChain` · `OpenAI` · `Groq` · `Gemini`
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ RepoGuard
-<img src="https://img.shields.io/badge/FYP-MCP-F5C451?style=for-the-badge&amp;labelColor=111111" alt="FYP MCP" /> <img src="https://img.shields.io/badge/LANG-EN_URDU-8B7CFF?style=for-the-badge&amp;labelColor=111111" alt="LANG EN_URDU" />
+### `02` RepoGuard
+![Final Year Project](https://img.shields.io/badge/FINAL_YEAR_PROJECT-MCP_AGENT-FF5722?style=flat-square&labelColor=0D0B0A) ![Bilingual](https://img.shields.io/badge/BILINGUAL-EN_%2B_ROMAN_URDU-FFB300?style=flat-square&labelColor=0D0B0A)
 
-An MCP agent that reads GitHub security reports and explains the fix in **English and Roman Urdu**.
+**MCP-based AI security agent** translating dense GitHub vulnerability findings into clear remediation steps in **English & Roman Urdu**.
+- **Native MCP Tools:** Direct GitHub security advisory & scan report ingestion
+- **Bilingual Triage:** Actionable root-cause explanations in English & Roman Urdu
+- **Verification:** Structured explanation accuracy & patch guidance evaluation
 
-- Advisory and scan intake
-- MCP tool calls
-- Bilingual patch guidance
-
-<img src="https://skillicons.dev/icons?i=python&amp;theme=dark" alt="Python" height="36" />
-
-`Python` `MCP` `AI Agents` `GitHub`
+`Python` · `Model Context Protocol` · `AI Agents` · `GitHub`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏛️ Sociapi Nexus
-<img src="https://img.shields.io/badge/ERP-PRIVATE-F5C451?style=for-the-badge&amp;labelColor=111111" alt="ERP PRIVATE" />
+### `03` Sociapi Nexus
+![Internal ERP](https://img.shields.io/badge/INTERNAL_ERP-PRIVATE-161210?style=flat-square&labelColor=0D0B0A) ![Org OS](https://img.shields.io/badge/ORG_OS-SUPABASE-FFB300?style=flat-square&labelColor=0D0B0A)
 
-The operating system for Sociapi: members, attendance, roles, dashboards.
+Centralized organizational ERP governing Sociapi Society's 39 core team members, chapters, and operations.
+- Role-Based Access Control (RBAC) & department workflows
+- Real-time member directory, attendance ledger & executive dashboards
 
-<img src="https://skillicons.dev/icons?i=react,ts&amp;theme=dark" alt="React TypeScript" height="36" />
-
-`React` `TypeScript` `Supabase`
+`React` · `TypeScript` · `Supabase`
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 WhatsApp AI
-<img src="https://img.shields.io/badge/BOT-LIVE-8B7CFF?style=for-the-badge&amp;labelColor=111111" alt="BOT LIVE" />
+### `04` WhatsApp AI Assistant
+![Autonomous Bot](https://img.shields.io/badge/AUTONOMOUS_BOT-PRIVATE-161210?style=flat-square&labelColor=0D0B0A) ![Messaging](https://img.shields.io/badge/MESSAGING-RAG_%2B_MEMORY-FF5722?style=flat-square&labelColor=0D0B0A)
 
-Knowledge-base WhatsApp agent with memory and a human takeover switch.
+Knowledge-connected WhatsApp AI agent built for automated multilingual support with seamless human handoff.
+- Domain knowledge-base retrieval & multi-turn conversation memory
+- Live human-in-the-loop takeover controls over Baileys socket
 
-<img src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" alt="Node.js" height="36" />
-
-`Node.js` `Baileys` `RAG`
+`Node.js` · `Baileys` · `RAG` · `LLM APIs`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-### 🛒 HomeItems
-<img src="https://img.shields.io/badge/CLIENT-SHIPPED-F5C451?style=for-the-badge&amp;labelColor=111111" alt="CLIENT SHIPPED" />
-
-Multivendor WooCommerce marketplace: vendor desks, payments, shipping, filters.
-
-<img src="https://skillicons.dev/icons?i=wordpress,php&amp;theme=dark" alt="WordPress PHP" height="36" />
-
-`WordPress` `WooCommerce` `PHP` `MySQL`
-
-</td>
-<td width="50%" valign="top">
-
-### 📦 Also shipped
-
-| Product | Job |
-| :--- | :--- |
-| Sanitary POS | Billing & stock |
-| Outreach generator | Bulk email copy |
-| Certificate generator | Event credentials |
-| [Sociapi site](https://sociapis.vercel.app) | Community home |
-| TecWideBlog | Publishing |
-| Ospherics | Pharma site |
+### `05` HomeItems Marketplace — *Commercial Multivendor eCommerce*
+![Client Platform](https://img.shields.io/badge/CLIENT_PLATFORM-SHIPPED-FF5722?style=flat-square&labelColor=0D0B0A) &nbsp; Full-scale multivendor retail ecosystem featuring isolated **vendor onboarding & seller dashboards**, **payment gateway & zone shipping rules**, and **high-speed faceted catalog filtering**. &nbsp; `WordPress` · `WooCommerce` · `PHP` · `MySQL`
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:F5C451,100:8B7CFF&amp;height=54&amp;section=header&amp;text=SOCIAPI%20SOCIETY&amp;fontSize=20&amp;fontColor=111111&amp;fontAlignY=50" alt="Sociapi Society" width="100%" />
-
-<div align="center">
-
-**From Ideas to Intelligence.** Student-led tech community at Islamia College University Peshawar. Founded December 2025.
-
-<br/>
-
-<img src="https://img.shields.io/badge/39-CORE_TEAM-F5C451?style=for-the-badge&amp;labelColor=111111" alt="39 team" />
-<img src="https://img.shields.io/badge/520%2B-REACHED-8B7CFF?style=for-the-badge&amp;labelColor=111111" alt="520 reached" />
-<img src="https://img.shields.io/badge/09-CHAPTERS-F5C451?style=for-the-badge&amp;labelColor=111111" alt="9 chapters" />
-<img src="https://img.shields.io/badge/DEC-2025-8B7CFF?style=for-the-badge&amp;labelColor=111111" alt="Founded 2025" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/2026-AGENTUM-F5C451?style=for-the-badge&amp;labelColor=111111" alt="" />
-<img src="https://img.shields.io/badge/2026-MEHFIL_AI-8B7CFF?style=for-the-badge&amp;labelColor=111111" alt="" />
-<img src="https://img.shields.io/badge/2026-BOOT_CAMP-F5C451?style=for-the-badge&amp;labelColor=111111" alt="" />
-<img src="https://img.shields.io/badge/2026-AWS_CLOUD-8B7CFF?style=for-the-badge&amp;labelColor=111111" alt="" />
-
-<br/>
-
-<a href="https://sociapis.vercel.app"><strong>sociapis.vercel.app</strong></a>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:F5C451,100:8B7CFF&amp;height=54&amp;section=header&amp;text=TRAJECTORY&amp;fontSize=20&amp;fontColor=111111&amp;fontAlignY=50" alt="Trajectory" width="100%" />
-
-<img src="https://img.shields.io/badge/2026-AI_AGENTS_AND_ERP-F5C451?style=for-the-badge&amp;labelColor=111111" alt="2026 AI_AGENTS_AND_ERP" /> Building Morrow AI, RepoGuard, Sociapi Nexus
-<br/>
-<img src="https://img.shields.io/badge/2025-FOUNDED_SOCIAPI-8B7CFF?style=for-the-badge&amp;labelColor=111111" alt="2025 FOUNDED_SOCIAPI" /> Sociapi Society · Top Performer, Dosti Peshawar
-<br/>
-<img src="https://img.shields.io/badge/2024-WP_MENTOR-F5C451?style=for-the-badge&amp;labelColor=111111" alt="2024 WP_MENTOR" /> Digital Empowerment Network · PAFLA
-<br/>
-<img src="https://img.shields.io/badge/2023-AI_STUDIES-8B7CFF?style=for-the-badge&amp;labelColor=111111" alt="2023 AI_STUDIES" /> Client web work + BS Artificial Intelligence
-<br/>
-<img src="https://img.shields.io/badge/2022-ECOMMERCE-F5C451?style=for-the-badge&amp;labelColor=111111" alt="2022 ECOMMERCE" /> Multivendor stores and client sites
-<br/>
-<img src="https://img.shields.io/badge/2021-STARTED-8B7CFF?style=for-the-badge&amp;labelColor=111111" alt="2021 STARTED" /> WordPress and WooCommerce
-
 <details>
-<summary><strong>Awards</strong></summary>
+<summary><strong>⚡ 06 // Expand Additional Shipped Software & Client Platforms (7+ Builds)</strong></summary>
+<br/>
 
-- Top Performer Volunteer Award — Dosti Peshawar, 2025
-- WordPress Mentor — Digital Empowerment Network, 2024
-- WordPress Virtual Internship — Digital Empowerment Network, 2024
-- Web Development — Cyberseez IT House & Academy, 2024
-- PAFLA — Pakistan Freelancers Association, 2024
+| Platform / Product | Category | Engineering Purpose |
+| :--- | :--- | :--- |
+| **Sanitary POS Software** | Retail Software | Point-of-Sale billing, inventory ledger & invoicing system |
+| **Bulk Outreach Email Generator** | AI Automation | Automated personalized outreach copy & campaign generation |
+| **Bulk Certificate Generator** | Workflow Tooling | High-volume automated credential creation for bootcamps & events |
+| **Sociapi Society Website** | Community Portal | Official student tech community hub ([sociapis.vercel.app](https://sociapis.vercel.app)) |
+| **Ospherics Pharmaceuticals** | Corporate Web | Healthcare & pharmaceutical corporate product platform |
+| **TecWideBlog** | Digital Publishing | Technical SEO-tuned content publishing architecture |
+| **Personal Portfolio** | Web Showcase | Developer portfolio & client case showcase ([xuhair.netlify.app](https://xuhair.netlify.app)) |
 
 </details>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:F5C451,100:8B7CFF&amp;height=54&amp;section=header&amp;text=GITHUB%20SIGNAL&amp;fontSize=20&amp;fontColor=111111&amp;fontAlignY=50" alt="GitHub signal" width="100%" />
+## `03 // TECHNICAL ARSENAL`
+
+<table>
+<tr>
+<td width="28%" valign="middle" align="center">
+  <strong>AI, LLMs &amp; Agents</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" height="38" alt="Python FastAPI" /><br/><br/>
+  <img src="https://img.shields.io/badge/LangChain-161210?style=flat-square&logoColor=FF5722" alt="LangChain" />
+  <img src="https://img.shields.io/badge/MCP_Protocol-FF5722?style=flat-square&logoColor=white" alt="MCP Protocol" />
+  <img src="https://img.shields.io/badge/OpenAI_%C2%B7_Groq_%C2%B7_Gemini-161210?style=flat-square&logoColor=FFB300" alt="OpenAI, Groq, Gemini" />
+</td>
+<td width="72%" valign="top">
+  • <strong>Agentic Systems:</strong> Multi-Agent Workflows, Model Context Protocol (MCP), Function &amp; Tool Calling<br/>
+  • <strong>Resilient LLM Infra:</strong> Multi-Model Routing, Automatic API Key Rotation &amp; Provider Fallback<br/>
+  • <strong>Knowledge &amp; Context:</strong> Retrieval-Augmented Generation (RAG), Knowledge Bases, Conversation Memory, Prompt Engineering
+</td>
+</tr>
+<tr>
+<td width="28%" valign="middle" align="center">
+  <strong>Web &amp; eCommerce</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=wordpress,php,react,ts,js,tailwind,vite,html,css&theme=dark&perline=5" height="72" alt="Web Stack" />
+</td>
+<td width="72%" valign="top">
+  • <strong>WordPress &amp; WooCommerce:</strong> Custom Themes/Plugins, Multivendor Marketplaces, Elementor Pro<br/>
+  • <strong>Modern Frontend:</strong> Typed React &amp; TypeScript Applications, Component UI Systems, Tailwind CSS<br/>
+  • <strong>Optimization:</strong> Core Web Vitals, Technical SEO, Security Hardening &amp; UI/UX Design
+</td>
+</tr>
+<tr>
+<td width="28%" valign="middle" align="center">
+  <strong>Backend &amp; Data</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,supabase,redis&theme=dark&perline=3" height="72" alt="Backend Stack" />
+</td>
+<td width="72%" valign="top">
+  • <strong>APIs &amp; Services:</strong> REST API Architecture, Node.js/Express Services, PHP Custom Backends<br/>
+  • <strong>Data &amp; Security:</strong> PostgreSQL, MySQL, Supabase Realtime, Redis Caching, RBAC Authentication
+</td>
+</tr>
+<tr>
+<td width="28%" valign="middle" align="center">
+  <strong>DevOps &amp; Delivery</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vercel,netlify,postman,figma&theme=dark&perline=5" height="72" alt="DevOps Stack" />
+</td>
+<td width="72%" valign="top">
+  • <strong>Cloud &amp; CI/CD:</strong> Docker, GitHub Actions, Linux Administration, Vercel, Netlify &amp; cPanel<br/>
+  • <strong>Production Ops:</strong> SSL Provisioning, DNS Architecture, Zero-Downtime Migrations &amp; Technical Mentoring
+</td>
+</tr>
+</table>
+
+---
+
+## `04 // LEADERSHIP & TRAJECTORY`
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### Founder @ [Sociapi Society](https://sociapis.vercel.app)
+![Founded](https://img.shields.io/badge/FOUNDED-DEC_2025-FF5722?style=flat-square&labelColor=0D0B0A) ![University](https://img.shields.io/badge/ISLAMIA_COLLEGE_UNIV-PESHAWAR-161210?style=flat-square&labelColor=0D0B0A)
+
+Student-led technology community helping students build practical AI & software skills through real-world workshops, bootcamps, and collaborative engineering.
+
+<p>
+  <img src="https://img.shields.io/badge/39-CORE_TEAM-FF5722?style=for-the-badge&labelColor=0D0B0A" alt="39 Core Team" />
+  <img src="https://img.shields.io/badge/520%2B-REACHED-FFB300?style=for-the-badge&labelColor=0D0B0A" alt="520+ Reached" />
+  <img src="https://img.shields.io/badge/09-CHAPTERS-FF5722?style=for-the-badge&labelColor=0D0B0A" alt="9 Chapters" />
+</p>
+
+**2026 Flagship Events:** `AGENTUM` · `Mehfil AI` · `Sociapi Boot Camp` · `AWS & Cloud Webinar`
+
+</td>
+<td width="45%" valign="top">
+
+### Milestone Arc (2021 → 2026)
+
+- **`2026`** — Building **Morrow AI**, **RepoGuard (MCP)** & **Sociapi Nexus ERP**
+- **`2025`** — Founded **Sociapi Society** · *Top Performer Award (Dosti)*
+- **`2024`** — *WordPress Mentor* @ Digital Empowerment Network · *PAFLA*
+- **`2023`** — Advanced BS AI studies + full-stack client systems
+- **`2022`** — Scaled into multivendor WooCommerce & global clients
+- **`2021`** — Started WordPress, PHP & Web Engineering journey
+
+<details>
+<summary><strong>Honors &amp; Credentials (5)</strong></summary>
+
+- **Top Performer Volunteer Award** — Dosti Peshawar (2025)
+- **WordPress Mentor Recognition** — Digital Empowerment Network (2024)
+- **WordPress Virtual Internship** — Digital Empowerment Network (2024)
+- **Web Development Certification** — Cyberseez IT House (2024)
+- **Official Member** — Pakistan Freelancers Association / PAFLA (2024)
+
+</details>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `05 // GITHUB TELEMETRY`
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuhairzeb&amp;theme=gruvbox" alt="Contribution chart" width="100%" />
-
-<br/>
-
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=zuhairzeb&amp;layout=compact&amp;hide_border=true&amp;langs_count=6&amp;bg_color=0D1117&amp;title_color=F5C451&amp;text_color=E6EDF3" alt="Top languages" width="49%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zuhairzeb&show_icons=true&hide_border=true&rank_icon=github&bg_color=110E0C&title_color=FF5722&icon_color=FFB300&text_color=EDE8E2" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhairzeb&layout=compact&hide_border=true&langs_count=8&bg_color=110E0C&title_color=FF5722&text_color=EDE8E2" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=zuhairzeb&amp;hide_border=true&amp;background=0D1117&amp;ring=F5C451&amp;fire=8B7CFF&amp;currStreakLabel=F5C451&amp;sideLabels=8B949E&amp;currStreakNum=FFFFFF&amp;sideNums=C9D1D9&amp;dates=8B949E" alt="Contribution streak" width="80%" />
+<img width="78%" src="https://streak-stats.demolab.com?user=zuhairzeb&hide_border=true&background=110E0C&ring=FF5722&fire=FFB300&currStreakLabel=FF5722&sideLabels=EDE8E2&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9E958D" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zuhairzeb&bg_color=110E0C&color=FFB300&line=FF5722&point=FFFFFF&area=true&area_color=FF5722&hide_border=true&radius=14" alt="Activity Graph" />
 
 </div>
 
-<br/>
+---
+
+## `06 // LET'S BUILD TOGETHER`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LIVE-MULTI_AGENT-F5C451?style=for-the-badge&amp;labelColor=111111" alt="" />
-<img src="https://img.shields.io/badge/LIVE-MCP_SERVERS-8B7CFF?style=for-the-badge&amp;labelColor=111111" alt="" />
-<img src="https://img.shields.io/badge/LIVE-RAG-F5C451?style=for-the-badge&amp;labelColor=111111" alt="" />
-<img src="https://img.shields.io/badge/LIVE-FAILOVER-8B7CFF?style=for-the-badge&amp;labelColor=111111" alt="" />
+**Open for AI Application & Agent Development · MCP Integrations · WordPress & Multivendor WooCommerce · Technical Collaborations**
 
-<br/>
+<p>
+  <a href="https://xuhair.netlify.app"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Portfolio" /></a>
+  <a href="https://linkedin.com/in/zuhairzeb"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-161210?style=for-the-badge&logo=linkedin&logoColor=FFB300" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/zuhairzeb"><img src="https://img.shields.io/badge/FOLLOW_%40ZUHAIRZEB-161210?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
+  <a href="mailto:xuhairxeb@gmail.com"><img src="https://img.shields.io/badge/XUHAIRXEB%40GMAIL.COM-FFB300?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
+</p>
 
-<img src="https://img.shields.io/badge/OPEN-WOOCOMMERCE-F5C451?style=for-the-badge&amp;labelColor=111111" alt="" />
-<img src="https://img.shields.io/badge/OPEN-AI_AGENTS-8B7CFF?style=for-the-badge&amp;labelColor=111111" alt="" />
-<img src="https://img.shields.io/badge/OPEN-MCP-F5C451?style=for-the-badge&amp;labelColor=111111" alt="" />
-<img src="https://img.shields.io/badge/OPEN-COLLAB-8B7CFF?style=for-the-badge&amp;labelColor=111111" alt="" />
-
-<br/><br/>
-
-<a href="https://xuhair.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN-F5C451?style=for-the-badge&amp;labelColor=111111&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/zuhairzeb"><img src="https://img.shields.io/badge/LINKEDIN-IN-0A66C2?style=for-the-badge&amp;labelColor=111111&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/zuhairzeb"><img src="https://img.shields.io/badge/GITHUB-CODE-181717?style=for-the-badge&amp;labelColor=111111&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:xuhairxeb@gmail.com"><img src="https://img.shields.io/badge/EMAIL-HELLO-EA4335?style=for-the-badge&amp;labelColor=111111&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-  <a href="https://sociapis.vercel.app"><img src="https://img.shields.io/badge/SOCIAPI-ORG-8B7CFF?style=for-the-badge&amp;labelColor=111111" alt="Sociapi" /></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F5C451,50:8B7CFF,100:07060b&amp;height=120&amp;section=footer&amp;text=%E2%9A%A1%20From%20Ideas%20to%20Intelligence&amp;fontSize=20&amp;fontColor=111111&amp;fontAlignY=42&amp;animation=twinkling" alt="From Ideas to Intelligence" width="100%" />
-
-**Muhammad Zuhair Zeb** · Peshawar, Pakistan
+<img src="https://raw.githubusercontent.com/zuhairzeb/zuhairzeb/main/assets/footer.svg" alt="From Ideas to Intelligence — Muhammad Zuhair Zeb" width="100%" />
 
 </div>
