@@ -1,271 +1,352 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Muhammad%20Zuhair%20Zeb&fontSize=42&fontColor=4ADE80&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Community%20Builder&descSize=16&descColor=a78bfa&descAlignY=55&animation=fadeIn" width="100%" />
+# Muhammad Zuhair Zeb
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Muhammad%20Zuhair%20Zeb&fontSize=42&fontColor=4ADE80&fontAlignY=35&desc=WordPress%20Developer%20%E2%80%A2%20AI%20Application%20Developer%20%E2%80%A2%20Founder&descSize=15&descColor=a78bfa&descAlignY=55&animation=fadeIn" width="100%" />
 
 <div align="center">
 
 <a href="https://xuhair.netlify.app">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%E2%9A%A1+Building+ERPs%2C+AI+Bots+%26+Modern+Web+Apps;%F0%9F%8E%AF+From+Ideas+to+Intelligence;%F0%9F%9A%80+Founder+%40+Sociapi+Society" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Building+Websites%2C+AI+Tools+%26+Smart+Applications;WordPress+%7C+WooCommerce+%7C+Python+%7C+LLMs;Founder+%40+Sociapi+Society" alt="Typing SVG" />
 </a>
 
-<br>
+<br/>
 
-<a href="https://xuhair.netlify.app"><img src="https://img.shields.io/badge/◆_Portfolio-xuhair.netlify.app-0d1117?style=for-the-badge&labelColor=4ADE80&color=0d1117" /></a>
-<a href="https://beacons.ai/zuhairzeb"><img src="https://img.shields.io/badge/◆_All_Links-beacons.ai-0d1117?style=for-the-badge&labelColor=a78bfa&color=0d1117" /></a>
-<a href="mailto:xuhairxeb@gmail.com"><img src="https://img.shields.io/badge/◆_Email-Say_Hi-0d1117?style=for-the-badge&labelColor=f472b6&color=0d1117" /></a>
+<a href="https://xuhair.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=vercel&logoColor=4ADE80" /></a>
+<a href="https://github.com/zuhairzeb"><img src="https://img.shields.io/badge/GitHub-Follow-0d1117?style=for-the-badge&logo=github" /></a>
+<a href="https://beacons.ai/zuhairzeb"><img src="https://img.shields.io/badge/All_Links-Explore-0d1117?style=for-the-badge&logo=linktree" /></a>
+<a href="mailto:xuhairxeb@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail" /></a>
 
-<br>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=zuhairzeb&label=PROFILE+VIEWS&color=4ADE80&style=flat-square&labelColor=0d1117" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=zuhairzeb&label=PROFILE+VIEWS&color=4ADE80&style=flat-square" />
 
 </div>
 
-<br>
+---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
+## About Me
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+I'm Muhammad Zuhair Zeb, a WordPress and WooCommerce Developer, AI application developer, and final-year BS Artificial Intelligence student at Islamia College University Peshawar, Pakistan.
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Who Am I?
+I started working with web development in 2021. Since then, I have worked on client websites, eCommerce stores, custom web solutions, and AI-powered applications.
 
-```js
+My main focus is building practical software that solves real problems. I enjoy working across web development, AI integrations, automation, and backend systems.
+
+I'm also the Founder of **Sociapi Society**, a student-led technology community working to connect students with practical technology, AI, and software development.
+
+```javascript
 const zuhair = {
-  location: "Peshawar, Pakistan 🇵🇰",
-  education: "BS Artificial Intelligence (Final Year)",
-  university: "Islamia College University Peshawar",
-  
-  roles: [
-    "🧠 AI Engineer in Training",
-    "🌐 Full-Stack Web Developer",
-    "🏛️ Founder @ Sociapi Society",
-    "📊 Ex Data Analyst Intern"
-  ],
-  
-  currentlyBuilding: [
-    "Internal ERP Systems",
-    "WhatsApp AI Chatbots",
-    "Real Products That Ship"
-  ],
-  
-  motto: "From Ideas to Intelligence 🚀"
+    name: "Muhammad Zuhair Zeb",
+    location: "Peshawar, Pakistan",
+    education: "BS Artificial Intelligence",
+    university: "Islamia College University Peshawar",
+
+    roles: [
+        "WordPress Developer",
+        "WooCommerce Developer",
+        "AI Application Developer",
+        "Founder @ Sociapi Society"
+    ],
+
+    experience: "5+ Years in Web Development",
+
+    mainTechnologies: [
+        "WordPress",
+        "WooCommerce",
+        "PHP",
+        "JavaScript",
+        "Python",
+        "React",
+        "LLM APIs"
+    ],
+
+    interests: [
+        "AI Agents",
+        "LLM Applications",
+        "MCP",
+        "Workflow Automation",
+        "Web Applications",
+        "Software Development"
+    ],
+
+    currentlyBuilding: [
+        "Morrow AI",
+        "RepoGuard",
+        "Sociapi Digital Products",
+        "AI-powered Applications"
+    ],
+
+    motto: "From Ideas to Intelligence."
 };
 ```
 
-> ### 💡 *"I don't just study AI — I build with it. I don't just learn frameworks — I ship products."*
+## Technical Skills
 
-<br>
+### Web Development
 
-<table>
-<tr>
-<td>🎓</td><td>Final-year <b>BS Artificial Intelligence</b> student — blending theory with real-world builds</td>
-</tr>
-<tr>
-<td>🏛️</td><td>Founded & registered <b>Sociapi Society</b> under Societies Registration Act 1860 — 150+ event attendees</td>
-</tr>
-<tr>
-<td>💻</td><td><b>4+ years</b> shipping WordPress, WooCommerce & React products for real clients</td>
-</tr>
-<tr>
-<td>🤖</td><td>Built an internal <b>ERP system</b> and a production <b>WhatsApp AI chatbot</b> from scratch</td>
-</tr>
-<tr>
-<td>📊</td><td>Former <b>Data Analyst Intern</b> — Python, SQL & Power BI dashboards</td>
-</tr>
-<tr>
-<td>🎤</td><td>Organized <b>AGENTUM 2026</b> & <b>Mehfil AI 2026</b> — full event logistics, speakers & sponsors</td>
-</tr>
-</table>
+<p>
+<img src="https://skillicons.dev/icons?i=wordpress,php,html,css,js,react,tailwind" />
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+- WordPress Development
+- WooCommerce Development
+- Elementor & Elementor Pro
+- Custom WordPress Themes and Plugins
+- PHP and MySQL
+- HTML5, CSS3 and JavaScript
+- Responsive Website Development
+- eCommerce and Multivendor Marketplaces
+- Website Speed Optimization
+- Website Migration, Hosting and Deployment
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Arsenal
+### AI & LLM Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi" />
+</p>
+
+- Python Programming
+- LLM API Integration
+- OpenAI API
+- Groq API
+- Google Gemini API
+- LangChain
+- AI Agents and Multi-Agent Workflows
+- Model Context Protocol (MCP)
+- Prompt Engineering
+- RAG and Knowledge Base Integration
+- Conversation Memory
+- API Integration and Automation
+- Multi-Provider API Routing and Fallback Systems
+
+### Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,postgres,supabase,redis" />
+</p>
+
+- PHP
+- Node.js
+- Express.js
+- MySQL
+- PostgreSQL
+- Supabase
+- REST APIs
+- Database Design
+- Authentication and Authorization
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,vercel,netlify,figma,wordpress" />
+</p>
+
+- Git and GitHub
+- VS Code
+- cPanel
+- Vercel
+- Netlify
+- Linux
+- Figma
+- Postman
+- GitHub Actions
+
+---
+
+## Featured Projects
+
+### 1. Morrow AI
+
+**Personal AI Assistant | Multi-Model AI Platform**
+
+An AI assistant project focused on bringing multiple AI providers and useful development tools into one interface.
+
+**Key Features**
+- Multiple AI model and provider integration
+- Automatic API key and provider fallback
+- Conversation history and memory
+- AI-powered tools and commands
+- Document processing
+- Code assistance
+- Provider and model management
+
+**Technologies:** Python, LangChain, LLM APIs, Groq, OpenAI, Gemini
+
+Status: In Development
+
+### 2. RepoGuard
+
+**An MCP-Based AI Agent for GitHub Security Reports in English and Roman Urdu**
+
+An AI-powered project designed to help developers understand GitHub security reports through connected security scanning tools and easy-to-understand explanations.
+
+**Key Features**
+- GitHub security report analysis
+- MCP-based tool integration
+- Security finding explanations
+- English and Roman Urdu responses
+- AI-assisted report understanding
+
+**Technologies:** Python, MCP, AI Agents, LLM APIs, GitHub
+
+Status: Final Year Project
+
+### 3. Sociapi Nexus
+
+**Internal Management and ERP System**
+
+A digital management solution for handling organizational operations, member information, attendance, and internal workflows.
+
+**Key Areas**
+- Member management
+- Attendance tracking
+- Department management
+- Role-based access
+- Organization dashboards
+
+**Technologies:** React, TypeScript, Supabase
+
+Status: Private Project
+
+### 4. WhatsApp AI Assistant
+
+**AI-Powered Conversational Automation**
+
+A WhatsApp chatbot project designed to provide automated responses using AI and a connected knowledge base.
+
+**Key Features**
+- WhatsApp integration
+- AI-powered conversations
+- Knowledge base integration
+- Conversation memory
+- Multilingual responses
+- Human takeover workflow
+
+**Technologies:** Node.js, Baileys, AI APIs
+
+Status: Private Project
+
+### 5. WooCommerce Marketplace
+
+**HomeItems Marketplace**
+
+A multivendor eCommerce project built using WordPress and WooCommerce.
+
+**Key Features**
+- Vendor management
+- Vendor dashboards
+- Payment gateway integration
+- Shipping configuration
+- Product filtering
+- eCommerce management
+
+**Technologies:** WordPress, WooCommerce, PHP, MySQL
+
+### 6. Personal Portfolio
+
+My personal portfolio showcasing my development work, skills, and projects.
+
+Website: https://xuhair.netlify.app
+
+### More Projects
+
+- **Sanitary POS Software:** Point of Sale solution for sanitary businesses.
+- **Bulk Outreach Email Generator:** Tool for creating outreach emails.
+- **Bulk Certificate Generator:** Automated certificate creation.
+- **Sociapi Society Website:** Digital platform for the technology community.
+
+---
+
+## Community & Leadership
+
+### Founder @ Sociapi Society
+
+**From Ideas to Intelligence.**
+
+Sociapi Society is a student-led technology community founded in December 2025 at Islamia College University Peshawar.
+
+Our mission is to help students learn, build, and explore emerging technologies through practical activities and collaboration.
+
+**Community Highlights**
+
+- 09 chapters across Pakistan
+- 500+ students reached through activities and events
+- 20+ member student technology team
+- Technical workshops and training programs
+- AI and software development events
+- Student collaboration and networking
+
+**Major Events**
+
+| Event | Year |
+|---|---|
+| AGENTUM | 2026 |
+| Mehfil AI | 2026 |
+| Sociapi Boot Camp | 2026 |
+| AWS & Cloud Webinar | 2026 |
+
+Website: https://sociapis.vercel.app
+
+---
+
+## Experience & Journey
+
+| Year | Experience |
+|---|---|
+| 2021 | Started WordPress and WooCommerce development |
+| 2022 | Expanded into client projects and website development |
+| 2023 | Started BS Artificial Intelligence studies |
+| 2024 | WordPress Mentor at Digital Empowerment Network |
+| 2025 | Continued web development and founded Sociapi Society |
+| 2026 | Building AI applications, software tools, and digital products |
+
+---
+
+## Certifications & Recognition
+
+- WordPress Virtual Internship Program — Digital Empowerment Network
+- WordPress Mentor Recognition — Digital Empowerment Network
+- Web Development Course — Cyberseez IT House & Academy
+- PAFLA Membership — Pakistan Freelancers Association
+- Top Performer Volunteer Award — Dosti Peshawar, September 2025
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=zuhairzeb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-**`🎨 FRONTEND`**
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhairzeb&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br>
+<br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" /><br>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,threejs&theme=dark" />
+<img src="https://streak-stats.demolab.com?user=zuhairzeb&theme=tokyonight&hide_border=true" />
 
-</td>
-<td align="center" width="25%">
+<br/>
 
-**`⚙️ BACKEND`**
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=nodejs,php,mysql,supabase&theme=dark" /><br>
-<img src="https://skillicons.dev/icons?i=express,fastapi,postgres,redis&theme=dark" />
-
-</td>
-<td align="center" width="25%">
-
-**`🤖 AI & DATA`**
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" /><br>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-
-</td>
-<td align="center" width="25%">
-
-**`🚀 DEVOPS`**
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&theme=dark" /><br>
-<img src="https://skillicons.dev/icons?i=linux,docker,wordpress,figma&theme=dark" />
-
-</td>
-</tr>
-</table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zuhairzeb&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## 🚀 Featured Projects
+## Let's Connect
 
-<table>
-<tr>
-<td width="50%">
-
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22">&nbsp; Sociapi Nexus — Internal ERP
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black" /> <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
-
-> Full ERP system managing attendance, member records & roles across a multi-department organization. Custom auth flow, RLS policies & real-time dashboards.
-
-<sub>🔒 Private Repository</sub>
-
-</td>
-<td width="50%">
-
-### <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="22">&nbsp; WhatsApp AI Assistant
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Baileys-25D366?style=flat-square&logo=whatsapp&logoColor=white" /> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-
-> AI-powered WhatsApp bot with local knowledge base, multilingual support, conversation memory & live admin takeover. CI/CD via GitHub Actions.
-
-<sub>🔒 Private Repository</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="22">&nbsp; Personal Portfolio
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-
-> Cyber-themed portfolio with 3D animations, dark mode, particle effects & full project showcase.
-
-🔗 **[xuhair.netlify.app](https://xuhair.netlify.app)**
-
-</td>
-<td width="50%">
-
-### 🛒 HomeItems Marketplace
-
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-
-> Multivendor WooCommerce marketplace with vendor dashboards, payment gateways, shipping rules & advanced filtering system.
-
-<sub>🌐 Live Client Project</sub>
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>🔽 More Projects</b></summary>
-<br>
-
-| Project | Stack | Description |
-|:--------|:------|:------------|
-| 💊 **Ospherics Pharmaceuticals** | `WordPress` `Elementor` `PHP` | Complete redesign of a pharmaceutical company website with performance & SEO optimization |
-| 📝 **TecWideBlog** | `WordPress` `Elementor` `SEO` | SEO-optimized blogging platform with responsive layout & clean content management |
-
-</details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 💼 Journey
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│  2021 ─── 🌐 Started freelancing in WordPress & WooCommerce        │
-│    │                                                                │
-│  2022 ─── 💻 Built 10+ client websites, learned full hosting stack  │
-│    │                                                                │
-│  2023 ─── 🎓 Deep dive into AI/ML during university coursework     │
-│    │                                                                │
-│  2024 ─── 🧑‍🏫 WordPress Intern → Mentored 60+ interns at DEN       │
-│    │       📜 Earned 4 professional certifications                  │
-│    │                                                                │
-│  2025 ─── 📊 Data Analyst Intern at Elevvo Pathways                │
-│    │       🏆 Outstanding Contributor Award                         │
-│    │       🏛️ Founded Sociapi Society (officially registered)       │
-│    │                                                                │
-│  2026 ─── 🤖 Building ERPs & AI bots | Shipping real products      │
-│           🎤 Organized AGENTUM & Mehfil AI (150+ attendees each)   │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
-
-## 🏆 Certifications
+I'm interested in collaborating on web development, WordPress projects, AI applications, automation, and practical software products.
 
 <div align="center">
 
-|  | Certification | Issuer | Year |
-|:---:|:---|:---|:---:|
-| 🥇 | **Outstanding Contributor Award** | Elevvo Pathways | 2025 |
-| 📜 | WordPress Virtual Internship Program | Digital Empowerment Network | 2024 |
-| 📜 | WordPress Mentor Recognition | Digital Empowerment Network | 2024 |
-| 📜 | Web Development Course | Cyberseez IT House & Academy | 2024 |
-| 🤝 | PAFLA Membership | Pakistan Freelancers Association | 2024 |
+<a href="https://xuhair.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=vercel" /></a>
+<a href="https://github.com/zuhairzeb"><img src="https://img.shields.io/badge/GitHub-Follow-0d1117?style=for-the-badge&logo=github" /></a>
+<a href="https://beacons.ai/zuhairzeb"><img src="https://img.shields.io/badge/All_Links-Explore-0d1117?style=for-the-badge&logo=linktree" /></a>
+<a href="mailto:xuhairxeb@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail" /></a>
 
-</div>
+<br/><br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+**"From Ideas to Intelligence."**
 
-## 📫 Let's Connect & Build
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1500&color=a78bfa&center=true&vCenter=true&width=500&height=40&lines=Open+for+AI+%26+Web+Dev+roles;Available+for+freelance+projects;Let's+collaborate+on+something+cool" alt="Typing SVG" />
-
-<br><br>
-
-<a href="https://xuhair.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=4ADE80&labelColor=0d1117" /></a>
-&nbsp;
-<a href="mailto:xuhairxeb@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=f472b6&labelColor=0d1117" /></a>
-&nbsp;
-<a href="https://beacons.ai/zuhairzeb"><img src="https://img.shields.io/badge/ALL_LINKS-0d1117?style=for-the-badge&logo=linktree&logoColor=a78bfa&labelColor=0d1117" /></a>
-&nbsp;
-<a href="https://github.com/zuhairzeb"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
-
-<br><br>
-
-```
-⚡ "From Ideas to Intelligence" — Muhammad Zuhair Zeb
-```
-
-<br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
+Muhammad Zuhair Zeb
 
 </div>
 
