@@ -1,0 +1,41 @@
+FIX THE BLANK IMAGES WITHOUT CHANGING YOUR README
+
+Your README already references ./assets/*.svg.
+Those files need to be in the GitHub repository, not only on your computer.
+
+1. Extract zuhairzeb-assets.zip on your computer.
+2. Open https://github.com/zuhairzeb/zuhairzeb/upload/main
+3. Drag the entire extracted assets folder into the upload page.
+4. Check that the upload lists assets/banner.svg, assets/footer.svg, etc.
+5. Click Commit changes on the main branch.
+
+Do not upload the ZIP file itself.
+Do not upload the SVGs individually at the repository root.
+Do not upload a parent folder named zuhairzeb-assets.
+Do not replace README.md again. This download intentionally has no README.md.
+
+Correct paths:
+README.md                       (already in your repository; keep it)
+assets/banner.svg
+assets/headline.svg
+assets/github-stats.svg
+assets/top-languages.svg
+assets/streak.svg
+assets/activity.svg
+assets/trophies.svg
+assets/footer.svg
+
+Matching -light.svg versions are included too. Upload all of them.
+An assets-only upload repairs missing files; it cannot add theme switching
+to an older README by itself. Use Download Theme Update for that upgrade.
+
+After committing, open:
+https://github.com/zuhairzeb/zuhairzeb/blob/main/assets/banner.svg
+
+If it says 404, check that the folder is named assets (lowercase) and is on main.
+If it opens normally, refresh your profile. GitHub image caching may take time.
+The workshop's Check GitHub button checks the exact expected file paths.
+
+This images-only repair includes saved statistics. To enable automatic daily
+refresh later, download the full package and upload its .github/, scripts/,
+assets/sources.json, and assets/updated.json as explained in UPLOAD.txt.

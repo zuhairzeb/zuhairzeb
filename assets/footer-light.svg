@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-labelledby="title">
+  <title id="title">From Ideas to Intelligence - Muhammad Zuhair Zeb</title>
+  <defs><linearGradient id="footer-accent"><stop stop-color="#FF5722"/><stop offset="1" stop-color="#9B6100"/></linearGradient></defs>
+  <style>
+    .trace{stroke-dasharray:100 1100;animation:trace 9s linear infinite}
+    .pulse{animation:pulse 4s ease-in-out infinite}
+    @keyframes trace{to{stroke-dashoffset:-1200}}
+    @keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+    @media(prefers-reduced-motion:reduce){.trace,.pulse{animation:none}}
+  </style>
+  <rect width="1200" height="140" fill="#FFFFFF"/>
+  <path d="M0 0H1200" stroke="#E7D4C6" stroke-width="2"/>
+  <path class="trace" d="M0 1H1200" stroke="url(#footer-accent)" stroke-width="3"/>
+  <path d="M48 42H59L48 58H61L46 81L50 62H38Z" fill="url(#footer-accent)"/>
+  <text x="82" y="65" fill="#291C12" font-family="'Segoe UI',Arial,sans-serif" font-size="25" font-weight="700">From Ideas to Intelligence.</text>
+  <text x="82" y="91" fill="#715D4B" font-family="Consolas,monospace" font-size="11" letter-spacing="1">MUHAMMAD ZUHAIR ZEB / @ZUHAIRZEB</text>
+  <g class="pulse"><circle cx="1084" cy="64" r="4" fill="#FF5722"/><text x="1100" y="68" fill="#9B6100" font-size="11" font-family="Consolas,monospace">BUILD.</text></g>
+  <path d="M0 139H1200" stroke="#EDE3DA"/>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammad Zuhair Zeb</title>
+  <desc id="desc">AI agents, web architecture and community. An orange circuit signal travels around a custom MZ monogram.</desc>
+  <defs>
+    <linearGradient id="surface" x2="1" y2="1"><stop stop-color="#FFFFFF"/><stop offset=".66" stop-color="#FFF9F3"/><stop offset="1" stop-color="#FFF0E4"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#FF5722"/><stop offset="1" stop-color="#9B6100"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#B9875B" stroke-opacity=".07"/></pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="4"/></filter>
+  </defs>
+  <style>
+    .orbit{transform-origin:976px 152px;animation:orbit 30s linear infinite}
+    .signal{stroke-dasharray:42 640;animation:signal 7s linear infinite}
+    .status{animation:status 3.8s ease-in-out infinite}
+    @keyframes orbit{to{transform:rotate(360deg)}}
+    @keyframes signal{to{stroke-dashoffset:-682}}
+    @keyframes status{0%,100%{opacity:1}50%{opacity:.35}}
+    @media(prefers-reduced-motion:reduce){.orbit,.signal,.status{animation:none}}
+  </style>
+  <rect width="1200" height="320" fill="url(#surface)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <path d="M0 0H1200" stroke="url(#accent)" stroke-width="4"/>
+  <g font-family="'Segoe UI',Arial,sans-serif">
+    <text x="52" y="61" font-size="12" fill="#A63D14" letter-spacing="3.2">ENGINEER / BUILDER / FOUNDER</text>
+    <text x="48" y="134" font-size="49" font-weight="750" letter-spacing="-1.5" fill="#24180F">Muhammad Zuhair Zeb</text>
+    <text x="52" y="174" font-size="17" fill="#625448">AI Agents. Web Architecture. Real-World Impact.</text>
+    <path d="M52 204H100" stroke="#FF5722" stroke-width="3"/>
+    <text x="52" y="237" font-size="13" font-family="Consolas,monospace" fill="#9B6100" letter-spacing="1">FROM IDEAS TO INTELLIGENCE.</text>
+    <g class="status"><circle cx="57" cy="279" r="3" fill="#FF5722"/><text x="71" y="283" font-family="Consolas,monospace" font-size="10" letter-spacing="1.5" fill="#716052">PESHAWAR, PK / @ZUHAIRZEB</text></g>
+  </g>
+  <g fill="none" stroke="#FF5722" stroke-opacity=".21">
+    <path d="M769 40H848L883 75H1030L1080 125H1200M735 264H821L856 229H1100L1150 279H1200"/>
+    <path d="M812 0V66L850 104V185L810 225V320M1137 0V71L1098 110V200L1138 240V320"/>
+    <circle cx="976" cy="152" r="108"/>
+    <circle cx="976" cy="152" r="86" stroke-dasharray="2 10"/>
+  </g>
+  <g class="orbit" fill="none" stroke="url(#accent)" stroke-width="2">
+    <circle cx="976" cy="152" r="108" stroke-dasharray="90 589"/>
+    <circle cx="976" cy="44" r="5" fill="#9B6100" stroke="none"/>
+  </g>
+  <path class="signal" d="M736 264H821L856 229H1100L1150 279H1200" fill="none" stroke="#9B6100" stroke-width="2"/>
+  <path class="signal" d="M769 40H848L883 75H1030L1080 125H1200" fill="none" stroke="#FF5722" stroke-width="2"/>
+  <path d="M918 178V127L943 155L967 127V178M984 128H1034L984 178H1034" fill="none" stroke="url(#accent)" stroke-width="7" stroke-linejoin="miter"/>
+  <path d="M918 178V127L943 155L967 127V178M984 128H1034L984 178H1034" fill="none" stroke="#FF5722" stroke-width="7" opacity=".35" filter="url(#glow)"/>
+  <g fill="#A63D14"><circle cx="848" cy="40" r="3"/><circle cx="1100" cy="229" r="3"/><circle cx="1137" cy="71" r="3"/></g>
+  <text x="976" y="295" text-anchor="middle" fill="#76543D" font-size="10" font-family="Consolas,monospace" letter-spacing="3">MZ / SYSTEM ONLINE</text>
+  <path d="M0 319H1200" stroke="#FF5722" stroke-opacity=".23"/>
+</svg>
