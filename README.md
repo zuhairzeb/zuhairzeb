@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0c0908,35:26120b,70:4a1c0d,100:ff5722&height=250&section=header&text=MUHAMMAD%20ZUHAIR%20ZEB&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Agents%20%26%20MCP%20Engineer%20%C2%B7%20WooCommerce%20Architect%20%C2%B7%20Founder%20%40%20Sociapi&descSize=16&descColor=FFB300&descAlignY=60&stroke=FF5722&strokeWidth=1" width="100%" alt="Muhammad Zuhair Zeb" />
+<img src="./assets/banner.svg" alt="Muhammad Zuhair Zeb — AI Agents, Web Architect & Founder" width="100%" />
 
 <a href="https://xuhair.netlify.app">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=900&color=FF5722&center=true&vCenter=true&width=820&height=52&lines=%E2%9A%A1+Architecting+Multi-Provider+LLM+%26+MCP+Agent+Systems;%F0%9F%9B%A0%EF%B8%8F+5%2B+Years+Shipping+20%2B+WordPress+%26+WooCommerce+Platforms;%F0%9F%8F%9B%EF%B8%8F+Founder+%40+Sociapi+Society+%E2%80%94+520%2B+Students+Reached;%F0%9F%9A%80+From+Ideas+to+Intelligence." alt="Animated Headline" />
@@ -275,6 +275,6 @@ Student-led technology community helping students build practical AI & software 
   <a href="mailto:xuhairxeb@gmail.com"><img src="https://img.shields.io/badge/XUHAIRXEB%40GMAIL.COM-FFB300?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0c0908,35:26120b,70:4a1c0d,100:ff5722&height=110&section=footer&text=%E2%9A%A1%20FROM%20IDEAS%20TO%20INTELLIGENCE&fontSize=18&fontColor=FFFFFF&fontAlignY=68" width="100%" alt="Footer" />
+<img src="./assets/footer.svg" alt="From Ideas to Intelligence — Muhammad Zuhair Zeb" width="100%" />
 
 </div>
