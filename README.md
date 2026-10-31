@@ -1,9 +1,17 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Muhammad Zuhair Zeb - AI Agents, Web Architect &amp; Founder" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
+  <img src="./assets/banner.svg" alt="Muhammad Zuhair Zeb - AI Agents, Web Architect &amp; Founder" width="100%" />
+</picture>
 
 <a href="https://xuhair.netlify.app">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/headline.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/headline-light.svg" />
   <img src="./assets/headline.svg" alt="Architecting multi-provider LLM and MCP agent systems" width="820" />
+</picture>
 </a>
 
 <p>
@@ -149,7 +157,11 @@ Knowledge-connected WhatsApp AI agent built for automated multilingual support w
 <tr>
 <td width="28%" valign="middle" align="center">
   <strong>AI, LLMs &amp; Agents</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=python,fastapi&amp;theme=dark" height="38" alt="Python FastAPI" /><br/><br/>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cfastapi&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cfastapi&amp;theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi&amp;theme=dark" height="38" alt="Python FastAPI" />
+</picture><br/><br/>
   <img src="https://img.shields.io/badge/LangChain-161210?style=flat-square&amp;logo=langchain&amp;logoColor=FF5722" alt="LangChain" />
   <img src="https://img.shields.io/badge/MCP_Protocol-FF5722?style=flat-square" alt="MCP Protocol" />
   <img src="https://img.shields.io/badge/OpenAI_%C2%B7_Groq_%C2%B7_Gemini-161210?style=flat-square" alt="OpenAI, Groq, Gemini" />
@@ -163,7 +175,11 @@ Knowledge-connected WhatsApp AI agent built for automated multilingual support w
 <tr>
 <td width="28%" valign="middle" align="center">
   <strong>Web &amp; eCommerce</strong><br/><br/>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=wordpress%2Cphp%2Creact%2Cts%2Cjs%2Ctailwind%2Cvite%2Chtml%2Ccss&amp;theme=dark&amp;perline=5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=wordpress%2Cphp%2Creact%2Cts%2Cjs%2Ctailwind%2Cvite%2Chtml%2Ccss&amp;theme=light&amp;perline=5" />
   <img src="https://skillicons.dev/icons?i=wordpress,php,react,ts,js,tailwind,vite,html,css&amp;theme=dark&amp;perline=5" height="72" alt="Web Stack" />
+</picture>
 </td>
 <td width="72%" valign="top">
   <strong>WordPress &amp; WooCommerce:</strong> Custom Themes/Plugins, Multivendor Marketplaces, Elementor Pro<br/>
@@ -174,7 +190,11 @@ Knowledge-connected WhatsApp AI agent built for automated multilingual support w
 <tr>
 <td width="28%" valign="middle" align="center">
   <strong>Backend &amp; Data</strong><br/><br/>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cpostgres%2Cmysql%2Csupabase%2Credis&amp;theme=dark&amp;perline=3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cpostgres%2Cmysql%2Csupabase%2Credis&amp;theme=light&amp;perline=3" />
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,supabase,redis&amp;theme=dark&amp;perline=3" height="72" alt="Backend Stack" />
+</picture>
 </td>
 <td width="72%" valign="top">
   <strong>APIs &amp; Services:</strong> REST API Architecture, Node.js/Express Services, PHP Custom Backends<br/>
@@ -184,7 +204,11 @@ Knowledge-connected WhatsApp AI agent built for automated multilingual support w
 <tr>
 <td width="28%" valign="middle" align="center">
   <strong>DevOps &amp; Delivery</strong><br/><br/>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cgithubactions%2Cdocker%2Clinux%2Cvercel%2Cnetlify%2Cpostman%2Cfigma&amp;theme=dark&amp;perline=5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cgithubactions%2Cdocker%2Clinux%2Cvercel%2Cnetlify%2Cpostman%2Cfigma&amp;theme=light&amp;perline=5" />
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vercel,netlify,postman,figma&amp;theme=dark&amp;perline=5" height="72" alt="DevOps Stack" />
+</picture>
 </td>
 <td width="72%" valign="top">
   <strong>Cloud &amp; CI/CD:</strong> Docker, GitHub Actions, Linux Administration, Vercel, Netlify &amp; cPanel<br/>
@@ -247,23 +271,43 @@ Student-led technology community helping students build practical AI & software 
 
 <div align="center">
 
-<img width="49%" src="./assets/github-stats.svg" alt="GitHub Stats" />
-<img width="49%" src="./assets/top-languages.svg" alt="Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg" />
+  <img width="49%" src="./assets/github-stats.svg" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/top-languages.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/top-languages-light.svg" />
+  <img width="49%" src="./assets/top-languages.svg" alt="Top Languages" />
+</picture>
 
 <br/><br/>
 
-<img width="78%" src="./assets/streak.svg" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/streak.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/streak-light.svg" />
+  <img width="78%" src="./assets/streak.svg" alt="GitHub Streak" />
+</picture>
 
 <br/><br/>
 
-<img width="100%" src="./assets/activity.svg" alt="GitHub contribution history" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/activity.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/activity-light.svg" />
+  <img width="100%" src="./assets/activity.svg" alt="GitHub contribution history" />
+</picture>
 
 </div>
 
 <details>
 <summary><strong>Contribution Trophies</strong></summary>
 
-<img width="100%" src="./assets/trophies.svg" alt="Contribution trophies generated from public GitHub activity" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/trophies.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/trophies-light.svg" />
+  <img width="100%" src="./assets/trophies.svg" alt="Contribution trophies generated from public GitHub activity" />
+</picture>
 
 <sub>Third-party GitHub activity trophies, not official GitHub achievement badges.</sub>
 
@@ -284,6 +328,10 @@ Student-led technology community helping students build practical AI & software 
   <a href="mailto:xuhairxeb@gmail.com"><img src="https://img.shields.io/badge/XUHAIRXEB%40GMAIL.COM-FFB300?style=for-the-badge&amp;logo=gmail&amp;logoColor=black" alt="Email xuhairxeb@gmail.com" /></a>
 </p>
 
-<img src="./assets/footer.svg" alt="From Ideas to Intelligence - Muhammad Zuhair Zeb" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg" />
+  <img src="./assets/footer.svg" alt="From Ideas to Intelligence - Muhammad Zuhair Zeb" width="100%" />
+</picture>
 
 </div>
