@@ -260,6 +260,7 @@ Student-led technology community helping students build practical AI & software 
 
 </div>
 
+<!-- trophies:start -->
 <details>
 <summary><strong>Contribution Trophies</strong></summary>
 
@@ -268,6 +269,7 @@ Student-led technology community helping students build practical AI & software 
 <sub>Third-party GitHub activity trophies, not official GitHub achievement badges.</sub>
 
 </details>
+<!-- trophies:end -->
 
 ---
 
